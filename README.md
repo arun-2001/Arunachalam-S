@@ -1,4 +1,5 @@
-<h1>Hi, I'm Arun! <br/><a href="https://github.com/arun-2001">Programmer</a>, <a href="https://www.linkedin.com/in/arunachalams2001">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Arun! <br/><a href="https://github.com/arun-2001">Programmer</a>, <a href="https://www.linkedin.com/in/arunachalams2001">Cybersecurity Professional</a>, 
+</h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
